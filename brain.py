@@ -19,3 +19,7 @@ predctions, probabilities = prediction.classifyImage(os.path.join(exec_path,'hou
 for eachPred, eachProb in zip(predctions, probabilities):
     print(f'{eachPred} : {eachProb}')
 
+
+
+
+
